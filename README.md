@@ -17,6 +17,9 @@ This project analyzes Superstore sales data to find:
 📂 **Data**:
 - `Superstore_2023 - Superstore_2023 (1).csv` 
 
+## 📊 Tableau Dashboard
+(https://public.tableau.com/views/Superstore_17500010985840/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 ## How I Did It
 
 1. Ran SQL queries to calculate profits
@@ -35,4 +38,4 @@ This project analyzes Superstore sales data to find:
 1. Download the SQL files
 2. Run them in your database
 3. See the results!
-
+https://public.tableau.com/app/profile/zavier.flores/viz/Superstore_17500010985840/Dashboard1?publish=yes 
