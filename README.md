@@ -25,8 +25,8 @@ This project analyzes Superstore sales data to find:
 
 ## Key Findings
 
-🔴 **Worst State**: Ohio (Worst Profit Margin -21.7)  
-🚚 **Best Shipping**: First Class (Highest Profit Margin 13.9 )  
+🔴 **Worst State**: Texas (lost $25,000)  
+🚚 **Best Shipping**: Standard Class (Most profit)  
 📉 **Problem Product**: Cisco Telepresence (sells well but loses money)  
 ⭐ **Top Customer**: Tamara Chand (spent $8983.00)
 
